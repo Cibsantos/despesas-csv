@@ -1,0 +1,12 @@
+{
+  "name": "despesas-csv",
+  "version": "1.0.0",
+  "description": "projeto criado para praticar nodejs e requisições http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cibsantos",
+  "license": "ISC",
+  "type":"module"
+}
